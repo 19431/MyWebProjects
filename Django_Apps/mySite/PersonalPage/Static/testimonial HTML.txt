@@ -1,0 +1,37 @@
+	<div class="section">
+				<div class="container">
+					<div class="row">
+						<div class="col-lg-10 col-lg-offset-1">
+							<div class="testimonials-wrap">			
+								<div class="ux-carousel ux-testimonials">
+									<div>
+										<blockquote>
+											<p>Donec nec justo eget felis facilisis fermentum. Aliquam porttitor mauris sit amet orci. Aenean dignissim pellentesque felis.</p>
+											<a href="javascript:void(0);" class="thumb" title="Cole Martin"><img src="static/img/authors/author1.jpg" alt="Cole Martin"></a>
+											<footer>Cole Martin <br><a href="http://www.uipro.net/" title="Cole Martin">http://www.uipro.net/</a></footer>
+										</blockquote>
+									</div>
+									<div>
+										<blockquote>
+											<p>Sed adipiscing ornare risus. Morbi est blandit sit amet, sagittis vel euismod velit pellentesque egestas ullamcorper magna.</p>
+											<a href="javascript:void(0);" class="thumb" title="Elvin Jones"><img src="img/authors/author2.jpg" alt="Elvin Jones"></a>
+											<footer>Elvin Jones <br><a href="http://www.uipro.net/" title="Elvin Jones">http://www.uipro.net/</a></footer>
+										</blockquote>
+									</div>
+									<div>
+										<blockquote>
+											<p>Morbi in sem quis dui placerat ornare. Pellentesque odio nisi euismod in, pharetra ultricies diamed arcu cras consequat.</p>
+											<a href="javascript:void(0);" class="thumb" title="Robert Wong"><img src="img/authors/author3.jpg" alt="Robert Wong"></a>
+											<footer>Robert Wong <br><a href="http://www.uipro.net/" title="Robert Wong">http://www.uipro.net/</a></footer>
+										</blockquote>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+
+
+
+master number intelli 

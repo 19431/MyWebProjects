@@ -1,0 +1,13 @@
+python manage.py runserver to run server
+
+<title>Oluwaseyi Oni</title>
+	<meta charset="utf-8" />
+    {% load staticfiles %}
+
+
+<div>
+	   {% block content %}
+	   {% endblock %}	
+	</div>
+
+									16.8 20.75 10.75 8.5 9.8
